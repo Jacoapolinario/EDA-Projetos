@@ -1,5 +1,5 @@
 //Jacó Apolinário da Silva
-//Turma: B
+//Turma: A
 //Matricula: 16/0126177
 #include <stdlib.h>
 #include <stdio.h>
